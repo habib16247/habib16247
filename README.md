@@ -1,5 +1,5 @@
 ![logo](https://github.com/habib16247/habib16247/blob/main/Blue%20and%20White%20Modern%20Tech%20Web%20Developer%20Twitter%20Header%20(3).png)
-<h1 align="center">Hi 👋, I'm MD Habibullah</h1>
+<h1 align="center">Hey 👋, I'm MD Habibullah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -7,12 +7,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@md-habibullah-abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@md-habibullah-abdullah" height="30" width="40" /></a>
-<a href="https://twitter.com/@mdhabib162470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mdhabib162470" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/md-habibullah-abdullah-b22643259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/md-habibullah-abdullah-b22643259" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/?_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/?_rdc=1&_rdr" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/habibullah162470/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/habibullah162470/?hl=en" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.linkedin.com/in/md-habibullah-abdullah-b22643259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.linkedin.com/in/md-habibullah-abdullah-b22643259/" height="30" width="40" /></a>
+<a href="https://codepen.io/@md-habibullah-abdullah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@md-habibullah-abdullah" height="30" width="40" /></a>
+<a href="https://twitter.com/@mdhabib162470" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mdhabib162470" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/md-habibullah-abdullah-b22643259" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/md-habibullah-abdullah-b22643259" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/?_rdc=1&_rdr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/?_rdc=1&_rdr" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/habibullah162470/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/habibullah162470/?hl=en" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/https://www.linkedin.com/in/md-habibullah-abdullah-b22643259/](https://www.youtube.com/channel/UCnopAZ7TIqUEF5w183_Thzg)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.linkedin.com/in/md-habibullah-abdullah-b22643259/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
