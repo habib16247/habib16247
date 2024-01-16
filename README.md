@@ -1,12 +1,7 @@
 ![logo](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hey 👋, I'm MD Habibullah</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
-<img align="left" alt="coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<br/>
-
-<br/>
-
-
+<hr/>
 <img align="left" src="https://komarev.com/ghpvc/?username=habib16247&label=Profile%20views&color=0e75b6&style=flat" alt="habib16247" />
 
 <h3 align="left">Connect with me:</h3>
@@ -32,3 +27,51 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=habib16247&show_icons=true&locale=en" alt="habib16247"  width="500" height="350" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habib16247&" alt="habib16247"  width="500" height="350" /></p>
+
+# 😎 Hi there, I'm Taher!
+
+I'm a Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh. I love to 🥼 experiment a lot!
+
+## About Me
+
+- 🔭 I'm currently working as a Software Engineer at [ThemeXpert](https://www.themexpert.com/) on [ThriveDesk](https://thrivedesk.com/).
+- 👨‍💻 I've been a Software Developer at [Vanila.io](https://vanila.io/) and Co-founder of [Automatio](https://automatio.co/).
+- 👨‍🏫 Founder of [Code Eating Ants](https://codeeatingants.com/) and created multiple courses, teaching developers from scratch.
+
+## 🔥 Places I Have Been
+
+- Software Engineer at [ThemeXpert](https://www.themexpert.com/) working on [ThriveDesk](https://thrivedesk.com/).
+- Software Developer at [Vanila.io](https://vanila.io/) and Co-founder of [Automatio](https://automatio.co/).
+- Founder of [Code Eating Ants](https://codeeatingants.com/) and created multiple courses, teaching developers from scratch.
+
+## 🖥 Technologies
+
+You can talk to me about,
+
+- Front-end development using HTML, CSS, SCSS, Less, JavaScript, ReactJS, jQuery, Ant Design, Bootstrap.
+- Backend development using NodeJS, Express.
+- Database stuff using Prisma, SQLite, MongoDB, MySQL, PostgreSQL.
+- Full-stack development using NextJS, BlitzJS.
+- Web automation using Puppeteer, Cypress, Playwright.
+- Deployment stuff using Docker, Kubernetes, Caddy, Nginx.
+
+I'm still learning about,
+
+- Frontend stuff like Vue, Angular.
+- Backend stuff like Laravel.
+- CMS stuff like Ghost, WordPress.
+- Languages like Go, Rust, PHP, Python.
+- Data structures and algorithms.
+- Machine Learning.
+
+## 📫 Let's Connect!
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=your_facebook_profile_url)](your_facebook_profile_url)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=your_twitter_profile_url)](your_twitter_profile_url)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=your_instagram_profile_url)](your_instagram_profile_url)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=your_linkedin_profile_url)](your_linkedin_profile_url)
+[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=your_medium_profile_url)](your_medium_profile_url)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:your_email@example.com)](mailto:your_email@example.com)
+
+Feel free to reach out! Let's build something amazing together! 🚀
+
