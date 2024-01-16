@@ -15,7 +15,11 @@ Hi there! 👋 I'm Mohammad Habibullah, a passionate front-end developer with ex
 
 Feel free to reach out! Let's build something amazing together! 🚀
 
+## Specialized In [ Front End ]
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,mongodb" /> 
 
+## Tools
+<img src="https://skillicons.dev/icons?i=vscode,figma,vite,vercel" />
 
 
 ## Projects
