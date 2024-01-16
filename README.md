@@ -6,12 +6,12 @@ Hi there! 👋 I'm Abdul Ahad Rashed, a passionate front-end developer with expe
 
 ## 📫 Let's Connect!
 
-[<img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge" width="50" >](your_facebook_profile_url)
-[<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge" width="50" >](your_twitter_profile_url)
-[<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" width="50" >](your_instagram_profile_url)
-[<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="50" >](your_linkedin_profile_url)
-[<img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium Badge" width="50" >](your_medium_profile_url)
-[<img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" width="50" >](mailto:your_email@example.com)
+[<img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge" width="85" height="30" >]([your_facebook_profile_url](https://www.facebook.com/profile.php?id=100087430404639))
+[<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge" width="85" height="30" >](https://twitter.com/MDHabib162470)
+[<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" width="85" height="30" >](your_instagram_profile_url)
+[<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="85" height="30" >](https://www.linkedin.com/in/md-habibullah-b22643259/)
+[<img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium Badge" width="85" height="30" >](your_medium_profile_url)
+[<img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" width="85" height="30" >](mailto:habibullah162470@gmail.com)
 
 Feel free to reach out! Let's build something amazing together! 🚀
 
