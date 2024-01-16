@@ -29,8 +29,8 @@ Feel free to reach out! Let's build something amazing together! 🚀
 ### TodoList (React.js)
 
 - **Description:** CRUD operations (Add, Delete, Edit).
-- **GitHub Link:** [TodoList (React.js)](https://github.com/RashedAbdullah/TodoList)
-- **Live Link:** [TodoList (React.js)](https://todo-list-blue-one-23.vercel.app)
+- **GitHub Link:** [TodoList (React.js)](https://github.com/habib16247/Reducer-TodoApp)
+- **Live Link:** [TodoList (React.js)](https://reducer-todo-app-ashy.vercel.app/)
 
 
 
