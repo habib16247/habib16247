@@ -1,8 +1,115 @@
 ![logo](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
-<h1 align="center">Hey 👋, I'm MD Habibullah</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
-<hr/>
-<img align="left" src="https://komarev.com/ghpvc/?username=habib16247&label=Profile%20views&color=0e75b6&style=flat" alt="habib16247" />
+# About Me
+
+Hi there! 👋 I'm Abdul Ahad Rashed, a passionate front-end developer with expertise in JavaScript, React.js, and Next.js. I also have a solid foundation in HTML, CSS, and Bootstrap. I'm enthusiastic about creating dynamic and responsive web applications that deliver a great user experience.
+
+
+## 📫 Let's Connect!
+
+[<img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge" width="50" >](your_facebook_profile_url)
+[<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge" width="50" >](your_twitter_profile_url)
+[<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" width="50" >](your_instagram_profile_url)
+[<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="50" >](your_linkedin_profile_url)
+[<img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium Badge" width="50" >](your_medium_profile_url)
+[<img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" width="50" >](mailto:your_email@example.com)
+
+Feel free to reach out! Let's build something amazing together! 🚀
+
+
+
+
+## Projects
+
+### TodoList (Vanilla JavaScript)
+
+- **Description:** CRUD operations (Add, Delete, Edit).
+- **GitHub Link:** [TodoList (Vanilla JavaScript)](https://github.com/RashedAbdullah/LogicBuild/tree/main/TodoList)
+- **Live Link:** [TodoList (Vanilla JavaScript)](https://logic-build.vercel.app)
+
+### TodoList (React.js)
+
+- **Description:** CRUD operations (Add, Delete, Edit).
+- **GitHub Link:** [TodoList (React.js)](https://github.com/RashedAbdullah/TodoList)
+- **Live Link:** [TodoList (React.js)](https://todo-list-blue-one-23.vercel.app)
+
+## Let's Connect
+
+- **LinkedIn:** [Abdul Ahad Rashed](https://www.linkedin.com/in/abdul-ahad-rashed/)
+- **Facebook:** [Rashed Abdullah](https://www.facebook.com/your_facebook_profile)
+
+Feel free to connect with me! Let's discuss code, collaborate on projects, or just have a friendly chat. 😊
+
+
+## Languages and Tools
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib16247&layout=compact" alt="Top Languages">
+
+## Github Status
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=habib16247&show_icons=true&locale=en" alt="habib16247"/></p>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Contibutions
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habib16247&" alt="habib16247" />
+
+
+
+
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,19 +121,17 @@
 <a href="[https://www.youtube.com/c/https://www.linkedin.com/in/md-habibullah-abdullah-b22643259/](https://www.youtube.com/channel/UCnopAZ7TIqUEF5w183_Thzg)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.linkedin.com/in/md-habibullah-abdullah-b22643259/" height="60" width="70" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3> 
+Languages and Tools
 <p align="left" display="flex> 
   
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="60" width="70"  textDecoration="none"  /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60" width="70" textDecoration="none" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="60" width="70"  textDecoration="none" /> </a> 
   
   </p>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib16247&layout=compact" alt="Top Languages" width="500" height="350">
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=habib16247&show_icons=true&locale=en" alt="habib16247"  width="500" height="350" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habib16247&" alt="habib16247"  width="500" height="350" /></p>
+
 
 # 😎 Hi there, I'm Taher!
 
@@ -64,14 +169,5 @@ I'm still learning about,
 - Data structures and algorithms.
 - Machine Learning.
 
-## 📫 Let's Connect!
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=your_facebook_profile_url)](your_facebook_profile_url)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=your_twitter_profile_url)](your_twitter_profile_url)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=your_instagram_profile_url)](your_instagram_profile_url)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=your_linkedin_profile_url)](your_linkedin_profile_url)
-[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=your_medium_profile_url)](your_medium_profile_url)
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:your_email@example.com)](mailto:your_email@example.com)
-
-Feel free to reach out! Let's build something amazing together! 🚀
 
