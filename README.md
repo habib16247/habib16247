@@ -6,7 +6,7 @@ Hi there! 👋 I'm Mohammad Habibullah, a passionate front-end developer with ex
 
 ## 📫 Let's Connect!
 
-[<img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge" width="85" height="30" >]([your_facebook_profile_url](https://www.facebook.com/profile.php?id=100087430404639))
+[<img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge" width="85" height="30" >](https://www.facebook.com/profile.php?id=100087430404639)
 [<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge" width="85" height="30" >](https://twitter.com/MDHabib162470)
 [<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" width="85" height="30" >](your_instagram_profile_url)
 [<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="85" height="30" >](https://www.linkedin.com/in/md-habibullah-b22643259/)
