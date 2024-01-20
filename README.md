@@ -27,8 +27,8 @@ Feel free to reach out! Let's build something amazing together! 🚀
 ### TodoList (Vanilla JavaScript)
 
 - **Description:** CRUD operations (Add, Delete, Edit, Completed).
-- **GitHub Link:** [TodoList (Vanilla JavaScript)](https://github.com/RashedAbdullah/LogicBuild/tree/main/TodoList)
-- **Live Link:** [TodoList (Vanilla JavaScript)](https://logic-build.vercel.app)
+- **GitHub Link:** [TodoList (Vanilla JavaScript)](https://github.com/habib16247/JS-TodoApp)
+- **Live Link:** [TodoList (Vanilla JavaScript)](https://js-todo-app-theta.vercel.app/)
 
 ### TodoList (React.js)
 
